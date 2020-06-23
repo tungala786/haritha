@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="haritha-suite" duration-ms="98006" started-at="2020-06-23T03:40:48Z" finished-at="2020-06-23T03:42:26Z">
+    <groups>
+    </groups>
+    <test name="haritha-test" duration-ms="98006" started-at="2020-06-23T03:40:48Z" finished-at="2020-06-23T03:42:26Z">
+      <class name="myPack.Haritha">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Haritha@2752f6e2]" name="addEmp" duration-ms="37465" started-at="2020-06-23T09:10:48Z" finished-at="2020-06-23T09:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Haritha@2752f6e2]" name="verifyLogin" duration-ms="60529" started-at="2020-06-23T09:11:26Z" finished-at="2020-06-23T09:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Haritha@2752f6e2]" name="deleteEmp" duration-ms="0" started-at="2020-06-23T09:11:26Z" finished-at="2020-06-23T09:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Haritha@2752f6e2]" name="editEmp" duration-ms="0" started-at="2020-06-23T09:11:26Z" finished-at="2020-06-23T09:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+      </class> <!-- myPack.Haritha -->
+    </test> <!-- haritha-test -->
+  </suite> <!-- haritha-suite -->
+</testng-results>
